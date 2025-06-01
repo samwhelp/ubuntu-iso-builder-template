@@ -1,0 +1,19 @@
+
+
+##
+## # Apt
+##
+
+
+
+
+##
+## ## Package / Apt
+##
+
+apt-file
+apt-utils
+
+#gdebi
+
+#synaptic
