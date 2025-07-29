@@ -46,6 +46,7 @@ parent: Respin
 
 | Link | GitHub |
 | ---- | ------ |
+| [deb-coffee](https://samwhelp.github.io/deb-coffee/) | [GitHub](https://github.com/samwhelp/deb-coffee) |
 | [Pacstall / Note](https://samwhelp.github.io/note-about-pacstall/) | [GitHub](https://github.com/samwhelp/note-about-pacstall) |
 | [Xubuntu / Note](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
 | [Xubuntu / Adjustment](https://samwhelp.github.io/xubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/xubuntu-adjustment) |
