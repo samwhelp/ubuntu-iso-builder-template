@@ -27,9 +27,9 @@ parent: Respin
 
 | Remix  | Respin |
 | ------ | ------ |
+| [ubuntu-iso-builder-import-pacstall-budgie-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-attach-themes) | [ubuntu-iso-builder-include-pacstall-budgie-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-budgie-attach-themes) |
 | [ubuntu-iso-builder-import-pacstall-budgie-style-maccity](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-style-maccity) |  |
 | [ubuntu-iso-builder-import-pacstall-budgie-style-wincity](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-style-wincity) |  |
-| [ubuntu-iso-builder-import-pacstall-budgie-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-attach-themes) | [ubuntu-iso-builder-include-pacstall-budgie-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-budgie-attach-themes) |
 | [ubuntu-iso-builder-import-pacstall-budgie-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-theme-vimix) |  |
 | [ubuntu-iso-builder-import-pacstall-budgie-theme-orchis](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-theme-orchis) |  |
 | [ubuntu-iso-builder-import-pacstall-budgie-theme-graphite](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-theme-graphite) |  |
