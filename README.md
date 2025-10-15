@@ -17,8 +17,17 @@
 
 ## Subject
 
+* [Notice](#notice)
 * [Respin](#respin)
 * [Link](#link)
+
+
+
+
+## Notice
+
+* Current default version: `Ubuntu 25.10 (Questing Quokka)`
+* Currently it still uses `initramfs-tools` and has not switched to `dracut`.
 
 
 
