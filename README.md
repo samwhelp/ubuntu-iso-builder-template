@@ -12,15 +12,22 @@
 
 ## Subject
 
+* [Notice](#notice)
 * [Respin](#respin)
 * [Link](#link)
 
 
 
 
-## Respin
+## Notice
 
-> [More...](https://samwhelp.github.io/ubuntu-iso-builder-template/read/respin.html)
+* Current default version: `Ubuntu 25.10 (Questing Quokka)`
+* Currently it still uses `initramfs-tools` and has not switched to `dracut`.
+
+
+
+
+## Respin
 
 | Remix | Respin |
 | ----- | ------ |
