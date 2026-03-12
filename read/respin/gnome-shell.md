@@ -27,6 +27,8 @@ parent: Respin
 
 | Remix  | Respin |
 | ------ | ------ |
+| [ubuntu-iso-builder-import-pacstall-gnome-shell-layout-maccity](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-layout-maccity) | [ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity) |
+| [ubuntu-iso-builder-import-pacstall-gnome-shell-layout-wincity](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-layout-wincity) | [ubuntu-iso-builder-include-pacstall-gnome-shell-layout-wincity](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-layout-wincity) |
 | [ubuntu-iso-builder-import-pacstall-gnome-shell-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-attach-themes) | [ubuntu-iso-builder-include-pacstall-gnome-shell-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-attach-themes) |
 | [ubuntu-iso-builder-import-pacstall-gnome-shell-style-maccity](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-style-maccity) |  |
 | [ubuntu-iso-builder-import-pacstall-gnome-shell-style-wincity](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-style-wincity) |  |
@@ -51,3 +53,10 @@ parent: Respin
 | [Pacstall / Note](https://samwhelp.github.io/note-about-pacstall/) | [GitHub](https://github.com/samwhelp/note-about-pacstall) |
 | [Ubuntu Gnome Shell / Note](https://samwhelp.github.io/note-about-ubuntu-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-gnome-shell) |
 | [Ubuntu Gnome Shell / Adjustment](https://samwhelp.github.io/ubuntu-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-gnome-shell-adjustment) |
+| [make-gnome-shell-style](https://samwhelp.github.io/make-gnome-shell-style/) | [GitHub](https://github.com/samwhelp/make-gnome-shell-style) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [make-gnome-shell-layout-wincity](https://samwhelp.github.io/make-gnome-shell-layout-wincity/) | [GitHub](https://github.com/samwhelp/make-gnome-shell-layout-wincity) |
+| [make-gnome-shell-layout-maccity](https://samwhelp.github.io/make-gnome-shell-layout-maccity/) | [GitHub](https://github.com/samwhelp/make-gnome-shell-layout-maccity) |
