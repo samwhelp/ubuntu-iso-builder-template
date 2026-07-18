@@ -15,6 +15,7 @@
 * [Notice](#notice)
 * [Docker](#docker)
 * [Respin](#respin)
+* [Live Account](#live-account)
 * [Link](#link)
 
 
@@ -57,6 +58,32 @@
 | ----- | ------ |
 | [ubuntu-iso-builder-remix-lxqt-with-kwin](https://github.com/samwhelp/ubuntu-iso-builder-remix-lxqt-with-kwin) | [ubuntu-iso-builder-respin-lxqt-with-kwin](https://github.com/samwhelp/ubuntu-iso-builder-respin-lxqt-with-kwin) |
 | [ubuntu-iso-builder-remix-mate-with-compiz](https://github.com/samwhelp/ubuntu-iso-builder-remix-mate-with-compiz) | [ubuntu-iso-builder-respin-mate-with-compiz](https://github.com/samwhelp/ubuntu-iso-builder-respin-mate-with-compiz) |
+
+
+
+
+## Live Account
+
+| Account  | Value  |
+| -------- | ------ |
+| Username | `live` |
+| Password |        |
+
+> No password set
+
+
+To change the password for the current account, you can run the following command:
+
+``` sh
+sudo passwd $(whoami)
+```
+
+
+To remove the password for the current account, you can run the following command:
+
+``` sh
+sudo passwd -d $(whoami)
+```
 
 
 
